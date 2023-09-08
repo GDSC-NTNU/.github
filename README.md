@@ -1,1 +1,1 @@
-# .github
+# GDSC NTNU
